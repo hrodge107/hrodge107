@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/hrodge107/hrodge107/blob/main/mash2.gif?raw=true" width="735" height="455"> </p>
+<p align="center"> <img src="./mash2.gif" width="735" height="455"> </p>
 <br>
 <p align="center"><a href="https://gd.games/games/b6d9f9ad-26b1-4051-983d-e2ae0b0cf65e" target="_blank">Grade 11 Game Project (GDevelop5) </a></p>
 <p align="center"><a href="https://drive.google.com/file/d/1pYCrO9FK41QRGRNH2ahu1oHtjH196IBi/view?usp=sharing" target="_blank">Visual Novel I made about El Fili (RenPy)</a></p>
