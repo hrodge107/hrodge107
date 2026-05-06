@@ -1,7 +1,4 @@
 ## 📂 Projects
-
----
-
 ### [🌐 DevDive — React](https://github.com/hrodge107/DevDive)
 <p align="center">
   <a href="https://github.com/hrodge107/DevDive">
@@ -9,15 +6,17 @@
   </a>
 </p>
 
-> DevDive is a free, self-paced learning platform designed to teach the fundamentals of HTML, CSS, and JavaScript through a structured, curriculum-guided experience that provides immediate, AI-powered feedback on both code quality and visual responsiveness. 
+> DevDive is an e-learning platform designed to teach the fundamentals of HTML, CSS, and JS through structured lessons and exercises with an integrated IDE that features automated checking on both the codebase and visual output. 
 
 ---
 
 ### [🎮 Console RPG Adventure — C#](https://github.com/hrodge107/ConsoleRPGAdventure)
+
 <p align="center">
-  <a href="https://github.com/hrodge107/ConsoleRPGAdventure">
-    <img src="https://github.com/user-attachments/assets/4d547434-35a1-446d-9513-07651ffa2315" alt="ConsoleRPGAdventure" width="600">
-  </a>
+  <img src="https://github.com/user-attachments/assets/4d547434-35a1-446d-9513-07651ffa2315" alt="ConsoleRPGAdventure" width="380">
+  <img src="https://github.com/user-attachments/assets/161f9516-46bd-4abf-804a-9a0a93ba5619" alt="ConsoleRPGAdventure" width="380">
+  <img src="https://github.com/user-attachments/assets/df0203bb-7804-4130-880b-9b88134cdae1" alt="ConsoleRPGAdventure" width="380">
+  <img src="https://github.com/user-attachments/assets/df5c4bb8-ebfd-41d7-ac26-7eaf250cedc8" alt="ConsoleRPGAdventure" width="380">
 </p>
 
 > A turn-based RPG played entirely within a C# console application. It features world exploration, a QTE-based (Quick Time Event) combat system, and a player role system. It features ASCII art to create an immersive, pixel retro-style graphical experience.
