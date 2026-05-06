@@ -2,7 +2,7 @@
 
 ---
 
-### [🌐 DevDive — Web Development e-Learning Platform](https://github.com/hrodge107/DevDive)
+### [🌐 DevDive — React](https://github.com/hrodge107/DevDive)
 <p align="center">
   <a href="https://github.com/hrodge107/DevDive">
     <img src="https://github.com/user-attachments/assets/44adc200-e3e1-4bb5-91b2-32ea6dbd3b91" alt="DevDive" width="600">
