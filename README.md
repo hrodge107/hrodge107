@@ -3,7 +3,12 @@
 </p>
 <br>
 
-[![DevDive](https://github.com/user-attachments/assets/44adc200-e3e1-4bb5-91b2-32ea6dbd3b91)](https://google.com)
+<p align="center">
+  <a href="https://google.com">
+    <img src="https://github.com/user-attachments/assets/44adc200-e3e1-4bb5-91b2-32ea6dbd3b91" alt="DevDive">
+  </a>
+</p>
+
 
 <p align="center"><a href="https://github.com/hrodge107/ConsoleRPGAdventure" target="_blank">Console RPG Game (C#)</a></p>
 <p align="center"><a href="https://github.com/hrodge107/MasamangMansanas" target="_blank">Bad Apple using Tkinter (Python)</a></p>
