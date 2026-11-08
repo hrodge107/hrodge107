@@ -1,4 +1,26 @@
 ## 📂 Projects
+### [🎓 Meet Mita — React + Python](https://github.com/hrodge107/MeetMita)
+<p align="center">
+  <a href="https://github.com/hrodge107/MeetMita">
+    <img src="https://github.com/hrodge107/hrodge107/raw/main/meetmita.png" alt="Meet Mita" width="600">
+  </a>
+</p>
+
+> My entry for the Meta Global AI Developer Hackathon. Meet Mita turns a PDF or photos of your notes into an anime-style interactive lesson guided by Mita, an expressive 3D learning companion. It uses Meta's Muse Spark to plan and generate lessons with recall checkpoints, Muse Image for picture cards, and a Raise Hand feature where you can ask Mita questions grounded in your own material.
+
+---
+
+### [📚 AkashaZero — React + Supabase](https://akasha-zero.vercel.app)
+<p align="center">
+  <a href="https://akasha-zero.vercel.app">
+    <img src="https://akasha-zero.vercel.app/icon-master-1024.png" alt="AkashaZero" width="160">
+  </a>
+</p>
+
+> An installable web app (PWA) for keeping notes that pair an image with markdown, organized as Series → Chapter → Note Card. Every note is saved as plain markdown and images in your own Google Drive, with background OCR, full-text search, a Ctrl+K command palette, and offline reading.
+
+---
+
 ### [🌐 DevDive — React](https://github.com/hrodge107/DevDive)
 <p align="center">
   <a href="https://github.com/hrodge107/DevDive">
