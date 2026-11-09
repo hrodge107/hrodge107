@@ -13,6 +13,17 @@
 </tr>
 <tr>
 <td width="410" valign="middle" align="center">
+<a href="https://saan-kailan.vercel.app"><img src="assets/saankailan-slideshow.webp" alt="Saan? Kailan?" width="400"></a>
+</td>
+<td valign="middle">
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/map-pinned-dark.svg"><img src="assets/icons/map-pinned-light.svg" width="20" height="20" alt=""></picture> <a href="https://saan-kailan.vercel.app">Saan? Kailan?</a></h3>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=white" alt="React Native"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+<p align="left">A Philippine history guessing game. Each round drops you into a 360° scene from a historical event, and you guess when on the timeline and where on the map it happened. Explore mode lets you browse every event by era, in English or Filipino.</p>
+<a href="https://saan-kailan.vercel.app"><b>Live</b></a>
+</td>
+</tr>
+<tr>
+<td width="410" valign="middle" align="center">
 <a href="https://akasha-zero.vercel.app"><img src="assets/akashazero-slideshow.webp" alt="AkashaZero" width="400"></a>
 </td>
 <td valign="middle">
@@ -31,17 +42,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 <p align="left">An e-learning platform for HTML, CSS, and JavaScript fundamentals. Structured lessons and quizzes lead into exercises in a built-in IDE that automatically checks both your code and its visual output, plus a free-form playground.</p>
 <a href="https://github.com/hrodge107/DevDive"><b>Repo</b></a>
-</td>
-</tr>
-<tr>
-<td width="410" valign="middle" align="center">
-<a href="https://saan-kailan.vercel.app"><img src="assets/saankailan-slideshow.webp" alt="Saan? Kailan?" width="400"></a>
-</td>
-<td valign="middle">
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/map-pinned-dark.svg"><img src="assets/icons/map-pinned-light.svg" width="20" height="20" alt=""></picture> <a href="https://saan-kailan.vercel.app">Saan? Kailan?</a></h3>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=white" alt="React Native"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-<p align="left">A Philippine history guessing game. Each round drops you into a 360° scene from a historical event, and you guess when on the timeline and where on the map it happened. Explore mode lets you browse every event by era, in English or Filipino.</p>
-<a href="https://saan-kailan.vercel.app"><b>Live</b></a>
 </td>
 </tr>
 </table>
